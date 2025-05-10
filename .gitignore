@@ -1,0 +1,10 @@
+# Entorno virtual
+env/
+__pycache__/
+*.pyc
+
+# Entorno de Streamlit (opcional)
+.streamlit/
+
+# Variables de entorno
+.env
